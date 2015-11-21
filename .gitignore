@@ -9,3 +9,7 @@ eclipse/
 lib/
 libs/
 github.com/
+gradle/
+gradlew
+gradlew.bat
+build.gradle.basic
