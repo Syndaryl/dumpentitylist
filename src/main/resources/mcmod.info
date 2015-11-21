@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dumpentitylist",
+  "name": "Dump The Entity List",
+  "description": "This mod introduces a creative-only tool that, when right-clicked, dumps a full list of the loaded entities to a text file. This bypasses the late-loading issue.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Syndaryl"],
+  "credits": "Jabelar's Minecraft Forge Modding tutorials, for showing me all kinds of useful stuff.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
